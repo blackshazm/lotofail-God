@@ -1,0 +1,5 @@
+{
+  "name": "Lottery God AI Analyzer",
+  "description": "An advanced lottery analysis tool that uses statistical methods and AI-powered insights to help users identify patterns and generate game suggestions. Users can input their own historical data, customize analysis rules, and receive strategic advice from a Gemini-powered AI assistant.",
+  "requestFramePermissions": []
+}
